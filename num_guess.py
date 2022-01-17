@@ -34,4 +34,4 @@ while number != guess:
         # counter increased with every try.
         count = count + 1
 # whenever guesser hits targeted value, message is displayed including number of tries.
-print("You guessed it in", count, " tries")
+print("You guessed it in", count, " tries.")
